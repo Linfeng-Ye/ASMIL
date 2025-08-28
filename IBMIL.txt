@@ -1,4 +1,4 @@
-Wandb run dir: /fs2/comm/XXXXXXXXXXX/yelinfen/Documents/ACMIL/wandb/offline-run-20250807_000408-7qzbvlhd/files
+Wandb run dir: /fs2/comm/XXXXXXXXXXX/XXXXXXX/Documents/ACMIL/wandb/offline-run-20250807_000408-7qzbvlhd/files
 Used config:
 {'B': 1,
  'D_feat': 512,
@@ -836,7 +836,7 @@ Test Total time: 0:00:02 (2.7714 s / it)
 
 Results on best epoch:
 {'epoch': 31, 'val_acc': 76.66666666666667, 'val_auc': 0.7688698172569275, 'val_f1': 0.7666666507720947, 'test_acc': 82.5, 'test_auc': 0.8056567907333374, 'test_f1': 0.824999988079071}
-Wandb run dir: /fs2/comm/XXXXXXXXXXX/yelinfen/Documents/ACMIL/wandb/offline-run-20250807_005706-z0muw1h6/files
+Wandb run dir: /fs2/comm/XXXXXXXXXXX/XXXXXXX/Documents/ACMIL/wandb/offline-run-20250807_005706-z0muw1h6/files
 Used config:
 {'B': 1,
  'D_feat': 512,
@@ -1674,7 +1674,7 @@ Test Total time: 0:00:02 (2.2324 s / it)
 
 Results on best epoch:
 {'epoch': 31, 'val_acc': 76.66666666666667, 'val_auc': 0.7688698172569275, 'val_f1': 0.7666666507720947, 'test_acc': 82.5, 'test_auc': 0.8056567907333374, 'test_f1': 0.824999988079071}
-Wandb run dir: /fs2/comm/XXXXXXXXXXX/yelinfen/Documents/ACMIL/wandb/offline-run-20250807_014824-je28ruzd/files
+Wandb run dir: /fs2/comm/XXXXXXXXXXX/XXXXXXX/Documents/ACMIL/wandb/offline-run-20250807_014824-je28ruzd/files
 Used config:
 {'B': 1,
  'D_feat': 512,
@@ -2512,7 +2512,7 @@ Test Total time: 0:00:02 (2.0821 s / it)
 
 Results on best epoch:
 {'epoch': 31, 'val_acc': 76.66666666666667, 'val_auc': 0.7688698172569275, 'val_f1': 0.7666666507720947, 'test_acc': 82.5, 'test_auc': 0.8056567907333374, 'test_f1': 0.824999988079071}
-Wandb run dir: /fs2/comm/XXXXXXXXXXX/yelinfen/Documents/ACMIL/wandb/offline-run-20250807_122117-2cyhh249/files
+Wandb run dir: /fs2/comm/XXXXXXXXXXX/XXXXXXX/Documents/ACMIL/wandb/offline-run-20250807_122117-2cyhh249/files
 Used config:
 {'B': 1,
  'D_feat': 512,
@@ -3350,7 +3350,7 @@ Test Total time: 0:00:02 (2.7318 s / it)
 
 Results on best epoch:
 {'epoch': 31, 'val_acc': 93.33333333333333, 'val_auc': 0.9298833012580872, 'val_f1': 0.9333333373069763, 'test_acc': 82.5, 'test_auc': 0.798731803894043, 'test_f1': 0.824999988079071}
-Wandb run dir: /fs2/comm/XXXXXXXXXXX/yelinfen/Documents/ACMIL/wandb/offline-run-20250807_131452-smb1x8vy/files
+Wandb run dir: /fs2/comm/XXXXXXXXXXX/XXXXXXX/Documents/ACMIL/wandb/offline-run-20250807_131452-smb1x8vy/files
 Used config:
 {'B': 1,
  'D_feat': 512,
@@ -4188,7 +4188,7 @@ Test Total time: 0:00:02 (2.3061 s / it)
 
 Results on best epoch:
 {'epoch': 24, 'val_acc': 80.0, 'val_auc': 0.8677769899368286, 'val_f1': 0.8000000715255737, 'test_acc': 78.0, 'test_auc': 0.7938668727874756, 'test_f1': 0.7799999117851257}
-Wandb run dir: /fs2/comm/XXXXXXXXXXX/yelinfen/Documents/ACMIL/wandb/offline-run-20250807_140724-b1albkep/files
+Wandb run dir: /fs2/comm/XXXXXXXXXXX/XXXXXXX/Documents/ACMIL/wandb/offline-run-20250807_140724-b1albkep/files
 Used config:
 {'B': 1,
  'D_feat': 512,
